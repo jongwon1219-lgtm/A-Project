@@ -11,5 +11,9 @@ namespace A_Project
         {
             //Commit test1 진행 커밋 + 푸시
         }
+        public void test()
+        {
+
+        }
     }
 }
